@@ -1,6 +1,9 @@
 # latihan_responsi2
 
 A new Flutter project.
+## Praktikum Teknologi dan Pemrograman Mobile IF-C
+Nama: Deni Norman Zaky
+NIM: 123220165
 
 ## Getting Started
 
